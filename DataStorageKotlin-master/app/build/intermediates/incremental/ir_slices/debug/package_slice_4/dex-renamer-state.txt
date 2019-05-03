@@ -1,0 +1,4 @@
+#Fri May 03 01:44:00 COT 2019
+base.0=C\:\\Users\\juanf\\Documents\\Universidad\\Semestre 9\\Moviles\\MobileDevelopment\\AppPeliculas\\DataStorageKotlin-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

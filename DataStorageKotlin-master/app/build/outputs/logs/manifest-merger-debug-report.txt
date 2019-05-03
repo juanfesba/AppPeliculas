@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\4020bcb0eda5e05ff7c6ec58f273f8f0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\a1597dbd776bf2e1efda297450bc3715\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\079a9fb208ca46704548d4e0bb16d20e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\51d35583558362652fc3615fb98e34c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fbfd7ada815dead03610c6b2bd615807\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\030289c7f64ee50b4d3147884f7df200\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\5690f328aea3e165c306df355dd6cca8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\00af021ded69284bc222fcf26dfb5bec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\ec9087417f90561932168da833c06514\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\2991a25e086d074a2507b482ec834f5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\c76668878f80ea31ebf8f3a216169e0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\334f9b419e1d1d3ce8c958288b0a7798\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\5f1055810c397db3cf5bf02eec9ae02b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\9c3a6fb71b163920204ae4262813550d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\3466ff074fc033105f31055de0dc4da8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\0492c7cd13f8066a6a53fc5b35c8c18a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\06cd41e2aaea78ba7731c297aad53b40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\9779011b19fbd7ee65268cf727e32108\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\17679126d18ecb8a12e061030a2fbfa4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fe18760fb365a9b6c4af7ee08f93fd93\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\2af74205fabb0cacf7e3551d6e534a81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fefc6601adb1a418bf796de184b461e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\7104c2b0a5a55546d7bc7789c354980c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\b9e43d53dcffaee53ea2f72d49b54c24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\4bb71155e32f13ff966f16a2ccc74c62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\40333a6d0b018b9f74af98fc0c74ddd4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\746da389d2d157fed49383e2d9e0039d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\035327ef6fdc0a8af42642d03212af01\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\002248de0d9fe1cf86d4464c571de935\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\c929e37da88516f6017d0dff62c291cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\b0ff227b321f1c37a3b07f552ef939fb\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:5:5-45:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\4020bcb0eda5e05ff7c6ec58f273f8f0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\4020bcb0eda5e05ff7c6ec58f273f8f0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\079a9fb208ca46704548d4e0bb16d20e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\079a9fb208ca46704548d4e0bb16d20e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\17679126d18ecb8a12e061030a2fbfa4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\17679126d18ecb8a12e061030a2fbfa4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fe18760fb365a9b6c4af7ee08f93fd93\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fe18760fb365a9b6c4af7ee08f93fd93\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\17679126d18ecb8a12e061030a2fbfa4\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:10:13-45
+	android:hardwareAccelerated
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:8:13-48
+	android:debuggable
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:7:13-38
+	android:roundIcon
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:13:13-44
+activity#com.example.datastorage.Controladores.AdminLobbyActivity
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:14:19-67
+activity#com.example.datastorage.Controladores.ProfileMovieActivity
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:16:9-17:20
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:16:19-69
+activity#com.example.datastorage.Controladores.AddMovieActivity
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:18:9-19:20
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:18:19-65
+activity#com.example.datastorage.Controladores.MoviesListActivity
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:20:9-21:20
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:20:19-67
+service#com.example.datastorage.Servicios.RegisterServices
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:23:9-27:19
+	android:enabled
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:25:17-39
+	android:exported
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:26:17-40
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:24:17-59
+activity#com.example.datastorage.Controladores.ProfileActivity
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:29:9-30:20
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:29:19-64
+activity#com.example.datastorage.Controladores.UsersListActivity
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:31:9-32:20
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:31:19-66
+activity#com.example.datastorage.Controladores.RegisterActivity
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:33:19-65
+activity#com.example.datastorage.Controladores.MainActivity
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:35:9-44:20
+	android:label
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:37:17-49
+	android:theme
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:38:17-60
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:36:17-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\4020bcb0eda5e05ff7c6ec58f273f8f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\4020bcb0eda5e05ff7c6ec58f273f8f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\a1597dbd776bf2e1efda297450bc3715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\a1597dbd776bf2e1efda297450bc3715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\079a9fb208ca46704548d4e0bb16d20e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\079a9fb208ca46704548d4e0bb16d20e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\51d35583558362652fc3615fb98e34c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\51d35583558362652fc3615fb98e34c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fbfd7ada815dead03610c6b2bd615807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fbfd7ada815dead03610c6b2bd615807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\030289c7f64ee50b4d3147884f7df200\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\030289c7f64ee50b4d3147884f7df200\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\5690f328aea3e165c306df355dd6cca8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\5690f328aea3e165c306df355dd6cca8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\00af021ded69284bc222fcf26dfb5bec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\00af021ded69284bc222fcf26dfb5bec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\ec9087417f90561932168da833c06514\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\ec9087417f90561932168da833c06514\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\2991a25e086d074a2507b482ec834f5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\2991a25e086d074a2507b482ec834f5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\c76668878f80ea31ebf8f3a216169e0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\c76668878f80ea31ebf8f3a216169e0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\334f9b419e1d1d3ce8c958288b0a7798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\334f9b419e1d1d3ce8c958288b0a7798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\5f1055810c397db3cf5bf02eec9ae02b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\5f1055810c397db3cf5bf02eec9ae02b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\9c3a6fb71b163920204ae4262813550d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\9c3a6fb71b163920204ae4262813550d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\3466ff074fc033105f31055de0dc4da8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\3466ff074fc033105f31055de0dc4da8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\0492c7cd13f8066a6a53fc5b35c8c18a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\0492c7cd13f8066a6a53fc5b35c8c18a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\06cd41e2aaea78ba7731c297aad53b40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\06cd41e2aaea78ba7731c297aad53b40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\9779011b19fbd7ee65268cf727e32108\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\9779011b19fbd7ee65268cf727e32108\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\17679126d18ecb8a12e061030a2fbfa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\17679126d18ecb8a12e061030a2fbfa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fe18760fb365a9b6c4af7ee08f93fd93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fe18760fb365a9b6c4af7ee08f93fd93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\2af74205fabb0cacf7e3551d6e534a81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\2af74205fabb0cacf7e3551d6e534a81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fefc6601adb1a418bf796de184b461e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\fefc6601adb1a418bf796de184b461e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\7104c2b0a5a55546d7bc7789c354980c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\7104c2b0a5a55546d7bc7789c354980c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\b9e43d53dcffaee53ea2f72d49b54c24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\b9e43d53dcffaee53ea2f72d49b54c24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\4bb71155e32f13ff966f16a2ccc74c62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\4bb71155e32f13ff966f16a2ccc74c62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\40333a6d0b018b9f74af98fc0c74ddd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\40333a6d0b018b9f74af98fc0c74ddd4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\746da389d2d157fed49383e2d9e0039d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\746da389d2d157fed49383e2d9e0039d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\035327ef6fdc0a8af42642d03212af01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\035327ef6fdc0a8af42642d03212af01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\002248de0d9fe1cf86d4464c571de935\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\002248de0d9fe1cf86d4464c571de935\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\c929e37da88516f6017d0dff62c291cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\c929e37da88516f6017d0dff62c291cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\b0ff227b321f1c37a3b07f552ef939fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\juanf\.gradle\caches\transforms-2\files-2.1\b0ff227b321f1c37a3b07f552ef939fb\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juanf\Documents\Universidad\Semestre 9\Moviles\MobileDevelopment\AppPeliculas\DataStorageKotlin-master\app\src\main\AndroidManifest.xml
